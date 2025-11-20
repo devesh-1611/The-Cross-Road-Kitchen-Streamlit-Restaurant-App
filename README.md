@@ -1,6 +1,7 @@
 # The-Cross-Road-Kitchen-Streamlit-Restaurant-App
 a simple and interactive restaurant ordering system built using Streamlit. Customers can browse menu items with images, place orders, and pay using a responsive UPI QR Code. A clean bill summary including GST calculation is also generated automatically.
 
+
 Features : Interactive Menu
 
 Beautiful 2-column layout
@@ -48,6 +49,8 @@ Project Structure
 │   └── ... (other menu images)
 ├── app.py    # Main Streamlit application
 └── README.md # Project documentation
+
+# all the images are genrated using gemini
 
 How to Run the App
 Install required packages
