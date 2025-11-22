@@ -50,7 +50,7 @@ Project Structure
 ├── app.py    # Main Streamlit application
 └── README.md # Project documentation
 
-# all the images are genrated using gemini
+all the images are genrated using gemini 
 
 How to Run the App
 Install required packages
